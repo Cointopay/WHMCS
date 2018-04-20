@@ -23,5 +23,5 @@ Thank you for being our customer, we look forward to working together.
 
 ### FOR DEVELOPERS AND SALES REPS
 PLEASE NOTE OUR AFFILIATE PROGRAM, YOU RECEIVE 0.5% OF ALL YOUR REFERRALS!
-Create an account on Cointopay.com and send your prospects the following link: https://cointopay.com/?r=<yourmerchantid>, you will receive mails when payments come into your account. 
+Create an account on Cointopay.com and send your prospects the following link: https://cointopay.com/?r=[yourmerchantid], you will receive mails when payments come into your account. 
 
