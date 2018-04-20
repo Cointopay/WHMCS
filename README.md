@@ -1,6 +1,5 @@
-### Cointopay crypto payment plugin for: WHMCS.com - Web Hosting Automation made easy
+### Cointopay.com crypto payment plugin for: WHMCS.com - Web Hosting Automation made easy
 
-### On Cointopay.com:
 Before we start the installation, please create an account on Cointopay.com.
 Note down the MerchantID and the SecurityCode, information is located in the Account section.
 These two pieces of information are mandatory to be able to connect the payment plugin to your WHMCS!
